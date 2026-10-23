@@ -72,7 +72,7 @@ Tiers: `apify` = Apify-maintained (always prefer), `community` = community-maint
 | streamers/youtube-shorts-scraper | apify | shorts data |
 | streamers/youtube-video-scraper-by-hashtag | apify | videos by hashtag |
 | streamers/youtube-video-downloader | apify | video download |
-| curious_coder/youtube-transcript-scraper | community | transcripts, captions |
+| johnvc/YoutubeTranscripts | community | transcripts, captions |
 
 ## X/Twitter
 
@@ -166,7 +166,7 @@ Tiers: `apify` = Apify-maintained (always prefer), `community` = community-maint
 | radeance/semrush-scraper | community | domain authority |
 | radeance/moz-scraper | community | DA, spam score |
 | radeance/ubersuggest-scraper | community | keyword suggestions |
-| radeance/se-ranking-scraper | community | keyword CPC |
+| radeance/seranking-scraper | community | keyword CPC |
 
 ## Content and web crawling
 
